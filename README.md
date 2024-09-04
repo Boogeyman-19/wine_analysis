@@ -1,4 +1,3 @@
-The notebook is a wine analysis project that involves data preprocessing, training multiple machine learning models, and comparing their performances. Based on the notebook content, here is a draft for the README file:
 
 ---
 
