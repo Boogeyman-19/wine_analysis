@@ -5,6 +5,7 @@
 
 This project aims to predict the quality of wine based on various chemical properties using machine learning models. The dataset used for this analysis contains wine samples with different features such as acidity, sugar content, pH, and alcohol levels.
 
+
 ## Project Structure
 
 - **Data Preprocessing**: The raw wine data is cleaned and processed for training machine learning models.
